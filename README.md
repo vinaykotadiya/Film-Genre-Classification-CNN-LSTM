@@ -1,12 +1,3 @@
-This project involves building and evaluating two deep learning models to classify film genres using multimodal data:
-
-CNN (Convolutional Neural Network) to classify film posters (images) by genre.
-
-LSTM (Long Short-Term Memory) network to classify film overviews (text) by genre.
-
-The dataset contains film posters in JPEG format and film overview texts sourced from the Internet Movie Database (IMDb). The goalCertainly! Here's a clean, well-formatted README file for your project—completely without images and easy to read:
-
----
 
 # Film Genre Classification Using CNN and LSTM
 
